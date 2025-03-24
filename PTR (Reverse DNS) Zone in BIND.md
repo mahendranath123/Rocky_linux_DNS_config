@@ -54,7 +54,7 @@ Add the following content:
 
 ```conf
 $TTL 86400
-@   IN  SOA ns5.jeebr.net. admin.jeebr.net. (
+@   IN  SOA ms.mahendranath.com. admin.mahendranath.xom. (
             2025032001  ; Serial (change this when editing)
             3600        ; Refresh
             1800        ; Retry
