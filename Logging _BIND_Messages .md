@@ -104,7 +104,7 @@ sudo systemctl status named
 Generate some activity (for example, by querying your server):
 
 ```bash
-dig @127.0.0.1 ns5.jeebr.net
+dig @127.0.0.1 ms.mahendranath.com
 ```
 
 ---
