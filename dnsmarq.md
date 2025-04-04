@@ -44,7 +44,7 @@ sudo systemctl status dnsmasq
 <pre><code class="has-line-data" data-line-start="63" data-line-end="65" class="language-bash">sudo vi /etc/dnsmasq.conf
 </code></pre>
 <p class="has-line-data" data-line-start="66" data-line-end="67">Add these lines to define your local DNS record and set up forwarding:</p>
-<pre><code class="has-line-data" data-line-start="69" data-line-end="78" class="language-conf"># Local DNS record for ns5.jeebr.net
+<pre><code class="has-line-data" data-line-start="69" data-line-end="78" class="language-conf"># Local DNS record for ms5.mahendranath.com
 address=/ms5.mahendranath.com/189.781.452.201
 
 # Do not use external nameservers from /etc/resolv.conf
